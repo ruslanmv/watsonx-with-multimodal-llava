@@ -1,0 +1,10 @@
+
+backup/requirements.txt
+/.venv
+*.gz
+/images
+*.lz4
+/test
+*.tar
+.venv
+.env

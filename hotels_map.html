@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_d6cc565232df721a53bfca434e2f12df {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_d6cc565232df721a53bfca434e2f12df" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_d6cc565232df721a53bfca434e2f12df = L.map(
+                "map_d6cc565232df721a53bfca434e2f12df",
+                {
+                    center: [44.40729, 8.937756000000002],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_66c5ae68ff6bab63f7c9da278f7a316b = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_66c5ae68ff6bab63f7c9da278f7a316b.addTo(map_d6cc565232df721a53bfca434e2f12df);
+        
+    
+            var marker_c13af248b161acd464947d8fcb847d37 = L.marker(
+                [44.40494, 8.948],
+                {}
+            ).addTo(map_d6cc565232df721a53bfca434e2f12df);
+        
+    
+        var popup_30a027138788c2eb527176060e61990a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0a43f5f4ba494b5449b70d51094aa862 = $(`<div id="html_0a43f5f4ba494b5449b70d51094aa862" style="width: 100.0%; height: 100.0%;">Starhotels President</div>`)[0];
+                popup_30a027138788c2eb527176060e61990a.setContent(html_0a43f5f4ba494b5449b70d51094aa862);
+            
+        
+
+        marker_c13af248b161acd464947d8fcb847d37.bindPopup(popup_30a027138788c2eb527176060e61990a)
+        ;
+
+        
+    
+    
+            var marker_a1dde32f85732cfc7ddecad19f947c9a = L.marker(
+                [44.40212, 8.93809],
+                {}
+            ).addTo(map_d6cc565232df721a53bfca434e2f12df);
+        
+    
+        var popup_399998a40cf29cb81c2a27ff277ca42f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_18448024ae05e5cbde793f0ebca7215e = $(`<div id="html_18448024ae05e5cbde793f0ebca7215e" style="width: 100.0%; height: 100.0%;">Melia Genova</div>`)[0];
+                popup_399998a40cf29cb81c2a27ff277ca42f.setContent(html_18448024ae05e5cbde793f0ebca7215e);
+            
+        
+
+        marker_a1dde32f85732cfc7ddecad19f947c9a.bindPopup(popup_399998a40cf29cb81c2a27ff277ca42f)
+        ;
+
+        
+    
+    
+            var marker_0fb9a412ef4748cdad36ae37be84dd20 = L.marker(
+                [44.40679, 8.9362],
+                {}
+            ).addTo(map_d6cc565232df721a53bfca434e2f12df);
+        
+    
+        var popup_1fa02d0bf258cb0f2f47dfebba4274c7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_350c1bc4a277654221b98044617b1bbe = $(`<div id="html_350c1bc4a277654221b98044617b1bbe" style="width: 100.0%; height: 100.0%;">Bristol Palace Hotel</div>`)[0];
+                popup_1fa02d0bf258cb0f2f47dfebba4274c7.setContent(html_350c1bc4a277654221b98044617b1bbe);
+            
+        
+
+        marker_0fb9a412ef4748cdad36ae37be84dd20.bindPopup(popup_1fa02d0bf258cb0f2f47dfebba4274c7)
+        ;
+
+        
+    
+    
+            var marker_8c53445cbb85a96fe2ba30a194186495 = L.marker(
+                [44.41079, 8.93791],
+                {}
+            ).addTo(map_d6cc565232df721a53bfca434e2f12df);
+        
+    
+        var popup_b162b1dda09a187acd9f897d2b9b55cc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b44d9002e22a76fb18f5d6f5b6431d23 = $(`<div id="html_b44d9002e22a76fb18f5d6f5b6431d23" style="width: 100.0%; height: 100.0%;">NH Genova Plaza</div>`)[0];
+                popup_b162b1dda09a187acd9f897d2b9b55cc.setContent(html_b44d9002e22a76fb18f5d6f5b6431d23);
+            
+        
+
+        marker_8c53445cbb85a96fe2ba30a194186495.bindPopup(popup_b162b1dda09a187acd9f897d2b9b55cc)
+        ;
+
+        
+    
+    
+            var marker_5e992aab5c98da1915dc603e501f6052 = L.marker(
+                [44.41181, 8.92858],
+                {}
+            ).addTo(map_d6cc565232df721a53bfca434e2f12df);
+        
+    
+        var popup_5b452f96d57213859bbd05f3c51b18e0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_25402b7c67b69880803919db261338e9 = $(`<div id="html_25402b7c67b69880803919db261338e9" style="width: 100.0%; height: 100.0%;">BEST WESTERN Hotel Porto Antico</div>`)[0];
+                popup_5b452f96d57213859bbd05f3c51b18e0.setContent(html_25402b7c67b69880803919db261338e9);
+            
+        
+
+        marker_5e992aab5c98da1915dc603e501f6052.bindPopup(popup_5b452f96d57213859bbd05f3c51b18e0)
+        ;
+
+        
+    
+    
+            var marker_64e10098bd0af1477e7c0e026e3e2183 = L.marker(
+                [40.7128, -74.006],
+                {}
+            ).addTo(map_d6cc565232df721a53bfca434e2f12df);
+        
+    
+            var icon_e726b1ba42824b2e49fa0b817593e3b2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_64e10098bd0af1477e7c0e026e3e2183.setIcon(icon_e726b1ba42824b2e49fa0b817593e3b2);
+        
+    
+        var popup_1e2836a53052e62023e9c3640e7ea9c0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3cf860103ebf3c36605f6a8ae843497a = $(`<div id="html_3cf860103ebf3c36605f6a8ae843497a" style="width: 100.0%; height: 100.0%;">Your Position</div>`)[0];
+                popup_1e2836a53052e62023e9c3640e7ea9c0.setContent(html_3cf860103ebf3c36605f6a8ae843497a);
+            
+        
+
+        marker_64e10098bd0af1477e7c0e026e3e2183.bindPopup(popup_1e2836a53052e62023e9c3640e7ea9c0)
+        ;
+
+        
+    
+</script>
+</html>

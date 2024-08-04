@@ -1,0 +1,36 @@
+[tool.poetry]
+name = "watsonx-container"
+version = "0.1.0"
+description = ""
+authors = ["Ruslan Magana Vsevolodovna <contact@ruslanmv.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ipykernel = "^6.29.5"
+python-dotenv = "^1.0.1"
+pandas = "^2.1.4"
+langchain = "^0.2.6"
+langchain-openai = "^0.1.14"
+langchain-core = "^0.2.11"
+langchain-ibm = "^0.1.8"
+langchain-community = "^0.2.6"
+ibm-watson-machine-learning = "^1.0.359"
+azure-search-documents = "^11.4.0"
+azure-core = "^1.30.2"
+azure-storage-blob = "^12.20.0"
+sentence-transformers = "^3.0.1"
+openai = "^1.32.0"
+chromadb = "0.5.3"
+pydantic = "^2.8.0"
+gradio = "^4.37.2"
+lxml = "^5.2.2"
+camelot-py = "^0.11.0"
+opencv-python = "^4.10.0.84"
+ghostscript = "^0.7"
+pdfminer-six = "^20240706"
+folium = "^0.17.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
