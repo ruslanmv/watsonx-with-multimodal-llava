@@ -21,16 +21,49 @@ import requests
 from haversine import haversine
 import os
 
-def get_coordinates(place):
-    # Dummy implementation, replace with actual geocoding logic
-    coordinates = {
-        "Genova, Italy": (44.4056, 8.9463)
-    }
-    return coordinates.get(place)
+from geopy.geocoders import Nominatim
+
+def get_coordinates(location_name):
+    """Fetches latitude and longitude coordinates for a given location name.
+
+    Args:
+        location_name (str): The name of the location (e.g., "Rome, Italy").
+
+    Returns:
+        tuple: A tuple containing the latitude and longitude (float values),
+               or None if the location is not found.
+    """
+
+    geolocator = Nominatim(user_agent="coordinate_finder")
+    location = geolocator.geocode(location_name)
+
+    if location:
+        return location.latitude, location.longitude
+    else:
+        return None  # Location not found
+import requests
 
 def get_current_location():
-    # Dummy implementation, replace with actual logic to get current location
-    return (44.4056, 8.9463)
+    try:
+        response = requests.get('https://ipinfo.io/json')
+        data = response.json()
+        
+        location = data.get('loc', '')
+        if location:
+            latitude, longitude = map(float, location.split(','))
+            return latitude, longitude
+        else:
+            return None, None
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None, None
+
+latitude, longitude = get_current_location()
+if latitude and longitude:
+    print(f"Current location: Latitude = {latitude}, Longitude = {longitude}")
+else:
+    print("Could not retrieve the current location.")
+
 
 def find_nearby(place=None):
     if place:
@@ -82,6 +115,8 @@ We will use LLava, a multimodal LLM, to generate descriptions of the first two i
 Let's start by installing the necessary libraries. This enables 4-bit inference with clever quantization techniques, shrinking the size of the model considerably, while maintaining performance of the original size.
 
 ```bash
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
 pip install --upgrade -q accelerate bitsandbytes
 pip install git+https://github.com/huggingface/transformers.git
 ```
