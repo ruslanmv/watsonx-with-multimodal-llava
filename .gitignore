@@ -8,3 +8,5 @@ backup/requirements.txt
 *.tar
 .venv
 .env
+dataset/train_set.csv
+hotel_multimodal.csv
