@@ -11,7 +11,7 @@ csv_file_path = os.path.join(current_directory, 'hotel_info.csv')  # Construct t
 
 
 # Function to read a CSV file from the specified starting index:
-def read_csv_from_row(csv_file, start_index=20001):
+def read_csv_from_row(csv_file, start_index=39001):
     """
     Reads a CSV file from a given start_index while keeping the header.
     
