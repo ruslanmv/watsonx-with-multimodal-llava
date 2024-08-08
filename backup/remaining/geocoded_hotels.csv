@@ -1,0 +1,501 @@
+hotel_id,hotel_name,chain_id,latitude,longitude,city,country,state,county,suburb,postcode,road,house_number
+55208,Novotel Hyderabad Airport,51,17.24155,78.45512,,India,Telangana,Balapur mandal,,500006,,
+55209,Apartamentos Marthas Suite,-1,39.52743,2.54426,,España,Illes Balears,Serra de Tramuntana,,07181,Carrer Jardiel Poncela,
+55211,City Hotels Algirdas,-1,54.67671,25.27137,Vilnius,Lietuva,Vilniaus apskritis,,Naujamiestis,03218,Algirdo g.,22
+55214,Comfort Inn Eastern Sands,88,-38.14786,144.36618,Geelong,Australia,Victoria,,Geelong,3220,Bellerine Street,1
+55215,Microtel Inn & Suites by Wyndham Carolina Beach,63,34.04132,-77.89606,,United States,North Carolina,New Hanover County,,28428,North Lake Park Boulevard,807
+55216,The Famous Star Hotel,-1,55.33325,-3.44471,,United Kingdom,Alba / Scotland,Dumfries and Galloway,,DG10 9HG,High Street,
+55220,Apartamentos Cruceiro do Galo,-1,42.87946,-8.54993,Santiago de Compostela,España,Galicia,Santiago,O Ensanche,15701,Rúa do Campo do Cruceiro do Gaio,5
+55222,Americas Best Value Inn Lumberton,62,34.64574,-79.0147,,United States,North Carolina,Robeson County,,28360,Lackey Street,3387
+55223,Our Whistler Retreat - Montebello,-1,50.12375,-122.9573,,Canada,British Columbia,Squamish-Lillooet Regional District,,V0N 1B0,Casabella Crescent,4805
+55224,Sunrise Resort,-1,9.67703,100.06646,,ประเทศไทย,,,,,Tommy Road,
+55225,Sensi Paradise Beach Resort,-1,10.08049,99.82086,,ประเทศไทย,,,,84369,,
+55226,Secret Valley Escape,-1,-33.61858,150.23202,,Australia,New South Wales,,Kanimbla,2790,Blackheath Creek Road,
+55227,Los Agaves Hotel Boutique,-1,20.9097,-100.74693,San Miguel de Allende,México,Guanajuato,San Miguel de Allende,,37770,Calle Ancha de San Antonio,13A
+55228,Europa-Park Erlebnis-Resort  Hotel Castillo Alcazar,-1,48.26011,7.72184,,Deutschland,Baden-Württemberg,Ortenaukreis,,77977,Europa-Park-Straße,2
+55229,Comfort Inn Waverly,88,42.70031,-92.47705,,United States,Iowa,Bremer County,,50677,29th Avenue Southwest,404
+55230,Best Western Hotel Mar Menuda,0,41.72257,2.93724,,España,,la Selva,,17320,Avinguda de la Mar Menuda,
+55232,Box Bush Cottage - B&B,-1,52.16027,0.66844,West Suffolk,United Kingdom,England,Suffolk,,IP29 4AQ,Bury Road,
+55233,Nevsky Bereg 93,-1,59.93036,30.36593,Санкт-Петербург,Россия,Санкт-Петербург,,,191036,Невский проспект,93
+55234,Suoan Machiya Residence Inn,81,34.99989,135.75444,京都市,日本,,,下京区,600-8223,東中筋通,京都市下京区東中筋通松原上ル舟屋町665
+55236,The Pines at Sunriver,-1,43.87002,-121.44198,,United States,Oregon,Deschutes County,,97707,East Meadow Road,
+55242,Residence Lagrange Prestige L'Arollaie,-1,45.55006,6.76324,,France,Auvergne-Rhône-Alpes,Savoie,,73210,Route de Pra-Lombard,330
+55243,Comfort Inn Livermore,88,37.70143,-121.81418,Livermore,United States,California,Alameda County,,94551,Constitution Drive,2705
+55244,Madame Vacances Hotel Courchevel Olympic,-1,45.41576,6.63554,,France,Auvergne-Rhône-Alpes,Savoie,,73120,Rue des Tovets,
+55246,Royal Sammuk villas,-1,13.30754,100.91048,,ประเทศไทย,,,,20131,,
+55248,Appart'Hotel Quimper,-1,47.99791,-4.10868,,France,Bretagne,Finistère,Coat Ty Dreux,29000,Rue de Locronan,8
+55249,Hotel Menstrup Kro,-1,55.21244,11.58065,,Danmark,Region Sjælland,,,4700,Menstrup Bygade,29
+55251,Seclusions of Yallingup,-1,-33.69045,115.06166,,Australia,Western Australia,,,,Zamia Grove,
+55255,HAtel Le TrinitA,-1,47.58937,-3.02967,,France,Bretagne,Morbihan,,56470,Rue de Carnac,
+55260,The Light Hotel and Resort,-1,12.23019,109.19848,Thành phố Nha Trang,Việt Nam,Tỉnh Khánh Hòa,,Phường Lộc Thọ,57131,Trần Phú,86c
+55261,City Express Toluca,-1,19.292,-99.55673,Lerma,México,Estado de México,Lerma,,50246,Boulevard Aeropuerto Miguel Alemán Valdez,
+55263,Bilderberg Hotel De Keizerskroon,-1,52.23405,5.94958,Apeldoorn,Nederland,Gelderland,,,7315 HR,Koningstraat,7
+55269,Hotel La Maree,-1,46.16258,-1.27844,,France,Nouvelle-Aquitaine,Charente-Maritime,,17940,Avenue Albert Sarrault,
+55271,Super 8 Bentonville,83,36.33523,-94.18691,Bentonville,United States,Arkansas,Benton County,,72712,Southeast Walton Boulevard,2301
+55272,Seastone Pool Villa,-1,8.01641,98.30976,ตำบลเชิงทะเล,ประเทศไทย,,อำเภอถลาง,,83110,,
+55274,A Top Spot Holiday House,-1,-28.6442,153.62244,,Australia,New South Wales,,,2481,Daniels Street,
+55275,Best Western Plus Wroxton House Hotel,82,52.07397,-1.39242,Cherwell,United Kingdom,England,Oxfordshire,,OX15 6QB,Silver Street,
+55277,Palmridge Inn,-1,13.47475,144.7842,,United States,Guam,Barrigada Municipality,,96913,Chalan Machaute Purple Heart Highway,1198
+55278,Birks Harbour - Marina & Luxury Accommodation,-1,-35.49541,138.79868,,Australia,South Australia,Alexandrina Council,,5214,Liverpool Road,
+55280,Sovereign Pier on the Waterways,-1,-36.83991,175.69246,,New Zealand / Aotearoa,Waikato,Thames-Coromandel District,Whitianga Waterways,3510,South Highway East,48
+55283,Courtenay Village,-1,-41.29399,174.78272,Wellington,New Zealand / Aotearoa,Wellington,Wellington City,Te Aro,6011,Courtenay Place,4/11
+55286,Hotel Horizon,-1,43.26503,13.65106,,Italia,Marche,Fermo,,63812,Strada Provinciale 94 Veregrense,
+55289,Painted Boat Resort,-1,49.61842,-124.02639,Area A (Egmont/Pender Harbour),Canada,British Columbia,Sunshine Coast Regional District,,V0N 2H0,Lagoon Road,
+55291,Hibiscus Oceanfront Resort,45,29.80733,-81.26389,Saint Augustine,United States,Florida,Saint Johns County,,32080,A1A,
+55295,Golden Ant Hotel,-1,10.73381,106.70686,Thành phố Hồ Chí Minh,Việt Nam,,,Quận 7,72915,Hưng Gia 5,
+55297,Saddle Creek Townhomes,-1,40.44532,-106.80565,Steamboat Springs,United States,Colorado,Routt County,,80487,Latigo Loop,1701
+55298,Villa Afrique - Guest House,-1,-34.04712,18.34657,,South Africa,Western Cape,City of Cape Town,Cape Town Ward 74,7872,Sluysken Road,
+55299,Melia Sol Y Nieve,-1,37.09544,-3.39954,,España,Andalucía,Comarca de la Vega de Granada,,18196,Calle Virgen de las Nieves,3
+55300,The Ikon Hotel,-1,-41.05082,145.905,Burnie,Australia,Tasmania,,Burnie,7320,Wilmot Street,41
+55303,Hotel Reginetta,-1,44.44393,26.11066,București,România,,,Cartierul Armenesc,020493,Strada Vasile Lascăr,83
+55304,Alpine Slopes Lodge,-1,39.60797,-105.95644,,United States,Colorado,Summit County,,80435,Highway 6,22701
+55306,Mercure Val Thorens,46,45.29533,6.58414,,France,Auvergne-Rhône-Alpes,Savoie,Val Thorens,73440,Rue de la Lombarde,
+55308,Middle Beach Lodge,-1,49.13387,-125.9093,,Canada,British Columbia,Alberni-Clayoquot Regional District,,V0R 2Z0,MacKenzie Beach Road,400
+55312,Lemon3lodge,-1,-33.39756,25.42042,Sundays River Valley Local Municipality,South Africa,Eastern Cape,Sarah Baartman District Municipality,Sundays River Valley Ward 7,6120,R336,
+55313,Parque Espana Residence Hotel,-1,14.41867,121.03484,Muntinlupa,Pilipinas,,,,1783,East Asia Drive,5309
+55315,Best Western Plus Ballarat Suites,82,-37.57761,143.86815,Ballarat,Australia,Victoria,,Golden Point,3350,Main Road,525
+55318,WelcomHeritage Sirsi Haveli,-1,26.91152,75.72059,Jaipur,India,Rajasthan,Jaipur Tehsil,Panchyawala,302001,,
+55321,Little Bullocks Farm,-1,51.85947,0.28355,Uttlesford,United Kingdom,England,Essex,Great Canfield,CM22 6TA,Bullocks Lane,
+55322,Hotel Moncton,-1,46.13431,-64.88775,Moncton,Canada,New Brunswick / Nouveau-Brunswick,Moncton Parish,,E1G 2W6,Mountain Road,
+55328,Dormy Inn Tsu,-1,34.73339,136.51179,津市,日本,,,,514-0009,津停車場線,
+55329,Super 8 Innisfail,83,52.02465,-113.93687,,Canada,Alberta,Town of Innisfail,,T4G 1P3,42 Avenue,4632
+55332,Palm Grove Resort,-1,12.79954,100.91365,,ประเทศไทย,,,,20250,,
+55334,Waterfoot Hotel,-1,55.00966,-7.27967,Derry/Londonderry,United Kingdom,Northern Ireland / Tuaisceart Éireann,County Londonderry,Caw,BT47 6TB,Clooney Road,14
+55338,ibis Clermont Ferrand Sud Carrefour Herbet,45,45.77908,3.11745,Clermont-Ferrand,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,Herbet,63000,Rue Claude Guichard,4
+55339,Bellesuite Rome,-1,41.90245,12.49464,Roma,Italia,Lazio,Roma Capitale,Municipio Roma I,00184,Via Modena,4
+55340,Jiang Tai Art Hotel Beijing,-1,39.96991,116.48317,朝阳区,中国,北京市,,酒仙桥街道,101102,将台西路,
+55341,Super 8 Perry,83,32.46958,-83.74042,,United States,Georgia,Houston County,,31069,Plaza Drive,102
+55344,Relais del Castello di Oviglio,-1,44.86041,8.48743,,Italia,Piemonte,Alessandria,,15026,Via Ventiquattro Maggio,
+55345,Allamanda Beach Club,14,18.25471,-63.0261,,Anguilla,,,,AI-2640,Bay View Road,
+55346,The Richmond Bed & Breakfast,-1,50.62933,-1.17736,,United Kingdom,England,Isle of Wight,,PO37 6AS,Palmerston Road,23
+55347,Chermside Court Motel,-1,-27.38675,153.02688,,Australia,Queensland,,Chermside,4032,Farnell Street,105
+55350,Best Western Hotel Hermitage,0,50.4646,1.76358,,France,Hauts-de-France,Pas-de-Calais,,62170,,
+55355,Hotel La Regence Etoile,-1,48.87652,2.29284,Paris,France,Île-de-France,,Paris 17e Arrondissement,75017,Avenue Carnot,
+55356,Kawamotoya,-1,36.925,138.44602,,日本,,下高井郡,,389-2502,,
+55358,Shawgate Farm Guest House,-1,53.03647,-1.94768,Staffordshire Moorlands,United Kingdom,England,Staffordshire,,ST10 2HN,Shay Lane,
+55359,La Piazza,-1,38.63814,15.07637,,Italia,Sicilia,Messina,,98050,Via San Pietro,
+55361,B. F. Hiestand House Bed & Breakfast,-1,40.0607,-76.5375,,United States,,Lancaster County,,17547,East Market Street,751
+55363,Slaviero Slim BalneArio CamboriA,-1,-26.99715,-48.65435,Camboriú,Brasil,Santa Catarina,,Monte Alegre,88348-237,Avenida Marginal Oeste,
+55366,The Historic Mansion House Inn,-1,44.35086,-106.69914,,United States,Wyoming,Johnson County,,82834,North Main Street,313
+55368,ibis Bourges,45,47.08181,2.38806,,France,Centre-Val de Loire,Cher,,18000,Esplanade du Prado,
+55370,Astra Apartments - Docklands,-1,-37.81991,144.94344,Melbourne,Australia,Victoria,,Docklands,3008,Bourke Street,
+55372,Americas Best Value Inn and Suites San Benito,62,26.12701,-97.63774,,United States,Texas,Cameron County,,78586,West Expressway 83,175
+55373,Samui Pier Beach Front Resort,-1,9.55824,100.05658,,ประเทศไทย,,,,84320,ถนนสายบ่อผุด-ปลายแหลม,82/1 Moo 4 Bophut Ko Samui
+55377,HomeStay Inn,-1,36.65273,-93.28115,Branson,United States,Missouri,Taney County,,65616,Shepherd of the Hills Expressway,3221
+55379,Villa Amrita,-1,-8.45089,115.2612,,Indonesia,Bali,Gianyar,,80561,,
+55380,Country Inn Motel,-1,40.29094,-75.97904,,United States,,Berks County,,19540,East Wyomissing Avenue,330
+55382,HAtel Des Phares,-1,49.50322,0.08894,,France,Normandie,Seine-Maritime,,76310,Rue du Général de Gaulle,29
+55383,Mansingh Palace,-1,27.16171,78.03515,Agra,India,Uttar Pradesh,,Taj Ganj,282004,,
+55385,RAsidence Pierre & Vacances La Daille,-1,45.46229,6.96455,,France,Auvergne-Rhône-Alpes,Savoie,,73150,Rue de la Daille,
+55386,Super 8 Ringgold,83,34.91412,-85.12442,,United States,Georgia,Catoosa County,,30736,Alabama Highway,5340
+55387,Riad Des Eaux et Spa,-1,31.6238,-7.98755,Marrakech ⵎⵕⵕⴰⴽⵯⵛ مراكش,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,,Pachalik de Marrakech,Medina ⵎⴷⵉⵏⴰ المدينة,40040,Derb Lakhdar درب الخضر,Hotel Espagne21
+55389,Banyan Tree Phuket,-1,8.01175,98.29582,ตำบลเชิงทะเล,ประเทศไทย,,อำเภอถลาง,,83110,ถนนป่าสัก-โคกโตนด,
+55390,Agrihotel Il Palagetto,-1,43.45291,10.87713,,Italia,Toscana,Pisa,,56048,SS439dir,
+55391,West Village at Copper Mountain Resort,-1,39.50143,-106.1507,,United States,Colorado,Summit County,,,Copper Road,
+55393,Center Village at Copper Mountain Resort,-1,39.50153,-106.15074,,United States,Colorado,Summit County,,,Copper Road,477
+55394,Banyan Tree Spa Sanctuary,-1,8.01214,98.29577,ตำบลเชิงทะเล,ประเทศไทย,,อำเภอถลาง,,83110,ถนนป่าสัก-โคกโตนด,
+55395,Altapura,-1,45.29748,6.57438,,France,Auvergne-Rhône-Alpes,Savoie,Val Thorens,73440,Rue du Bouchet,215
+55396,ibis Amiens Centre CathAdrale,45,49.89201,2.29211,Amiens,France,Hauts-de-France,Somme,,80000,Rue du Maréchal de Lattre de Tassigny,94
+55397,Casalgrande Hotel,-1,44.60725,10.77682,,Italia,Emilia-Romagna,Reggio nell'Emilia,Salvaterra,42048,Via Venticinque Aprile,29
+55400,East Village at Copper Mountain Resort,-1,39.5016,-106.15161,,United States,Colorado,Summit County,,,Ten Mile Circle,
+55403,Hotel Skanderborghus,-1,56.02563,9.92833,,Danmark,Region Midtjylland,,Næsset,8660,Dyrehaven,1
+55406,Totara Lodge,-1,-41.13768,175.03771,Upper Hutt,New Zealand / Aotearoa,Wellington,Upper Hutt City,Trentham,5018,Ararino Street,68
+55408,La Campana Hotel Boutique,-1,6.21156,-75.56257,Perímetro Urbano Medellín,Colombia,Antioquia,,Comuna 14 - El Poblado,050020,Calle 11A,31 A – 70
+55412,Hilton Seychelles Labriz Resort & Spa,3,-4.47813,55.24722,,Sesel,La Digue Group,La Digue District,,,Silhouette Island Native Plant Trail,
+55417,B&B Al Palazzetto,-1,45.44205,12.33532,Venezia,Italia,Veneto,Venezia,Venezia-Murano-Burano,30121,Calle Corrente,
+55419,Holiday Inn Express Greensburg,92,39.34915,-85.49927,,United States,Indiana,Decatur County,,47240,Moscow Road,1301
+55422,Canmore Crossing,-1,51.09163,-115.35658,,Canada,Alberta,Division No. 15,Palliser,T1W 1P4,Railway Avenue,1120
+55424,Villa Carina,-1,38.15188,20.38442,Δημοτική Ενότητα Παλικής,Ελλάς,"Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου",Περιφερειακή Ενότητα Κεφαλληνίας,,,,
+55428,Residence CGH L'Oree des Cimes,-1,45.55475,6.76381,,France,Auvergne-Rhône-Alpes,Savoie,,73210,D 120,
+55429,Hotel Campanile Caen Nord - HArouville Saint Clair,-1,49.20915,-0.32397,,France,Normandie,Calvados,,14200,Impasse des Ormes,
+55431,Hotel Deutsches Haus,-1,50.98589,12.97979,,Deutschland,Sachsen,Mittelsachsen,Rößgen,09648,Rochlitzer Straße,3
+55434,Lisson Grove Boutique Resort & Day Spa,-1,-27.94893,153.18152,,Australia,Queensland,,Mount Tamborine,4272,Main Western Road,
+55436,Pinheiros da Balaia,-1,37.09505,-8.2163,Albufeira,Portugal,,Faro,,8200-381,,
+55437,Chateau des Comtes de Challes,-1,45.55398,5.98801,,France,Auvergne-Rhône-Alpes,Savoie,,73190,Montée du Château,152
+55438,Waconia Inn & Suites,-1,44.84396,-93.78208,,United States,Minnesota,Carver County,,55387,East Frontage Road,255
+55439,Angelos,-1,39.14434,23.86402,,Ελλάς,Αποκεντρωμένη Διοίκηση Θεσσαλίας - Στερεάς Ελλάδος,Περιφερειακή Ενότητα Σποράδων,,370 05,,
+55440,Mercure Niort Marais Poitevin,46,46.32388,-0.45374,,France,Nouvelle-Aquitaine,Deux-Sèvres,La Burgonce,79000,Rue de la Terraudière,25bis
+55441,HAtel ibis Abbeville,45,50.09944,1.86088,,France,Hauts-de-France,Somme,,80100,D 1001,
+55443,Chitwan Forest Resort,-1,27.5547,84.41595,,नेपाल,बाग्मती प्रदेश,चितवन,,,,
+55444,Quality Inn & Suites Arden Hills - Saint Paul North,84,45.0575,-93.14826,,United States,Minnesota,Ramsey County,,55112,Red Fox Road,1125
+55445,Nobis Hotel,-1,59.33298,18.07392,Stockholms kommun,Sverige,,Stockholms län,Norrmalm,111 46,Hamngatan,6
+55446,The Stables at Fultons,-1,51.8735,0.362,Uttlesford,United Kingdom,England,Essex,Great Dunmow,CM6 1AX,North Street,
+55448,Le Chalet du Mont Vallon Spa Resort,-1,45.31537,6.5391,,France,Auvergne-Rhône-Alpes,Savoie,,73440,Rue des Paturages,
+55449,Hampton Inn Cartersville,91,34.20502,-84.7686,,United States,Georgia,Bartow County,,30121,Canton Highway,5636
+55451,Kapiti Gateway Motel,-1,-40.87346,175.0683,,New Zealand / Aotearoa,Wellington,Kāpiti Coast District,,5036,Main Road,116
+55453,Best Western Applegum Inn,0,-27.56308,151.96942,Toowoomba,Australia,Queensland,,East Toowoomba,4350,Margaret Street,61
+55454,Hotel Akrabello,-1,37.27336,13.61553,Agrigento,Italia,Sicilia,Agrigento,,92100,,
+55455,ibis Saint Omer Centre,45,50.74811,2.25145,,France,Hauts-de-France,Pas-de-Calais,,62500,Rue Henri Dupuis,
+55457,Sterling Hotel Dallas,-1,32.82668,-96.88739,Dallas,United States,Texas,Dallas County,,75247,Regal Row,1055
+55459,Las Cumbres Hotel & Water Park,-1,9.08039,-79.53125,Las Cumbres,Panamá,Provincia de Panamá,Distrito de Panamá,,,,
+55460,Accordia apartments Chamberlin Court,-1,52.21582,0.10855,Cambridge,United Kingdom,England,Cambridgeshire,Eddington,CB4 3QS,Westfield Lane,21
+55461,Bay Tree House - B&B,-1,50.71051,-2.42723,,United Kingdom,England,Dorset,,DT1 1NR,Athelstan Road,4
+55463,Hotel Krone Igelsberg,-1,48.53898,8.43992,,Deutschland,Baden-Württemberg,Landkreis Freudenstadt,Igelsberg,72250,Hauptstraße,8
+55465,Victoria Court Hillcrest,-1,14.57135,121.06671,Pasig,Pilipinas,,,,1600,Escarpment Road,220
+55466,Historic Kent Manor Inn,-1,38.97503,-76.32365,,United States,Maryland,Queen Anne's County,,21666,Kent Manor Drive,
+55467,Croft Mill - Apartments,-1,53.74074,-2.01119,Calderdale,United Kingdom,England,,Hebden Royd,HX7 8AY,Tanpits,
+55468,The Linton Hotel,-1,55.98534,-2.65479,,United Kingdom,Alba / Scotland,East Lothian,,EH40 3AF,Bridge Street,2b
+55473,Titilaka Hotel,-1,-15.90219,-69.73608,Platería,Perú,Puno,,,,PU-126,
+55474,Hotel DinastAa,-1,40.31745,-3.74249,Getafe,España,Comunidad de Madrid,,Nuevo Bercial,28907,Calle Becquerel,6
+55475,Hotel Dei Duchi,-1,42.73251,12.73541,,Italia,Umbria,Perugia,,06049,Via delle Monterozze,
+55479,Clarion Hotel Itaipava,58,-22.40414,-43.13563,Petrópolis,Brasil,Rio de Janeiro,Região Metropolitana do Rio de Janeiro,,25745-071,Estrada União e Indústria,
+55482,Anantara Phuket Villas,-1,8.16896,98.29556,,ประเทศไทย,,อำเภอถลาง,,,,
+55483,Malostranska Residence,-1,50.08776,14.40454,Hlavní město Praha,Česko,Praha,,Malá Strana,118 00,Malostranské náměstí,38/24
+55484,Aultguish Inn,-1,57.69311,-4.76773,,United Kingdom,Alba / Scotland,Highland,,IV23 2PQ,A835,
+55485,ibis OrlAans Centre,45,47.90626,1.8978,Orléans,France,Centre-Val de Loire,Loiret,,45000,Boulevard Rocheplatte,29
+55486,Centra Government Complex Hotel & Convention Centre,-1,13.88307,100.56724,กรุงเทพมหานคร,ประเทศไทย,,,เขตหลักสี่,10210,ซอยแจ้งวัฒนะ 7,
+55487,Pierre & Vacances Estartit,-1,42.05432,3.19773,,España,Catalunya,Baix Empordà,,17258,Carrer de l' Esglesia,38-44
+55488,Aventuras Club Lagoon,-1,20.50611,-87.21799,,México,Quintana Roo,,,77782,Calle Bahía Kantenah,
+55489,Romora Bay Resort & Marina,-1,25.49217,-76.63473,Harbour Island,The Bahamas,,,,,Alice Street,
+55491,Super 8 Motel Custer/Crazy Horse Area,83,43.76289,-103.61731,,United States,South Dakota,Custer County,,57730,West Mount Rushmore Road,535
+55493,Nh Collection LeAn Plaza Mayor,-1,42.59739,-5.56568,León,España,Castilla y León,,El Ejido,24003,Calle Caño Badillo,8
+55495,Holiday Inn Express & Suites Ponca City,92,36.73649,-97.06725,,United States,Oklahoma,Kay County,,74601,North 14th Street,2603
+55497,Merial Hotel,-1,41.00989,28.97658,İstanbul,Türkiye,,,Alemdar Mahallesi,34110,Alayköşkü Caddesi,10
+55498,The Racha,-1,7.60737,98.36765,,ประเทศไทย,,,,83100,,"Batok Bay, Koh Racha Yai"
+55500,Nite Inn Eugene,-1,44.05327,-123.11574,Eugene,United States,Oregon,Lane County,Bethel,97402,West 6th Avenue,1509
+55501,Anantara Baan Rajprasong Serviced Suites Bangkok,-1,13.73867,100.5411,กรุงเทพมหานคร,ประเทศไทย,,,เขตปทุมวัน,10330,ซอยมหาดเล็กหลวง 3,
+55503,Murray River Holiday Park,-1,-36.11493,144.75552,,Australia,New South Wales,,,2731,Bartlett Street,
+55504,Days Inn Univ Center Downtown,85,30.44956,-84.30488,Tallahassee,United States,Florida,Leon County,,32304,Wadsworth Street,743
+55507,Sol Wave House Mallorca,-1,39.50782,2.53409,,España,Illes Balears,Serra de Tramuntana,Magaluf,07184,Avinguda Magaluf,
+55508,Peppers Awaroa,-1,-40.86257,173.04294,,New Zealand / Aotearoa,Tasman,Tasman District,,,Coastal Track,
+55510,Clarendon Luxury Apartments,-1,55.95469,-3.21498,City of Edinburgh,United Kingdom,Alba / Scotland,,Stockbridge/Inverleith,EH4 1PU,Clarendon Crescent,11
+55511,Hotel Sunrise Beach,-1,37.77718,26.89727,Δημοτική Ενότητα Βαθέος,Ελλάς,Αποκεντρωμένη Διοίκηση Αιγαίου,Περιφερειακή Ενότητα Σάμου,,831 00,,
+55514,La Digue Island Lodge,-1,-4.35574,55.82624,,Sesel,La Digue Group,La Digue District,,,,
+55517,Super 8 Canandaigua,83,42.87778,-77.25687,,United States,New York,Ontario County,,14424,Eastern Boulevard,
+55519,H10 Mediterranean Village,-1,41.06213,1.16259,,España,Catalunya,Tarragonès,,43840,Carrer de la Ginesta,
+55520,Best Western Hotell Ljungby,0,56.81315,13.90608,,Sverige,,Kronobergs län,,341 32,Helsingborgsvägen,
+55521,Hotel Kappa,-1,45.50541,12.25012,Venezia,Italia,Veneto,Venezia,Carpenedo,30174,Via Trezzo,6
+55522,Indian Ocean Lodge,-1,-4.32636,55.71301,,Sesel,Praslin,Grand'Anse Praslin District,,,Grand'Anse Praslin - Baie Sainte Anne Road,
+55523,Hotel Route-Inn Hisai Inter,-1,34.68317,136.47244,津市,日本,,,,514-1101,国道165号,
+55524,Anna of Zanzibar - All Inclusive,-1,-6.18781,39.53343,,Tanzania,Unguja Kusini,,,,,
+55527,Best Western The Garden Executive Hotel,0,40.55554,-74.43356,,United States,New Jersey,Middlesex County,,07080,New World Way,205
+55528,Jele Rooms,-1,42.65518,18.09185,Grad Dubrovnik,Hrvatska,,Dubrovačko-neretvanska županija,Gruž,20000,Ulica generala Janka Bobetka,
+55530,Pattawia Resort & Spa,-1,12.38071,99.99981,,ประเทศไทย,,วังก์พง,,77220,ถนนเลียบหาด,
+55531,Hotel Castle Beach,-1,35.15631,129.13478,부산광역시,대한민국,,,,48280,광안해변로,361 민락공원
+55532,Holiday Inn Garden Court Clermont-Ferrand Centre,92,45.77062,3.08615,Clermont-Ferrand,France,Auvergne-Rhône-Alpes,Puy-de-Dôme,Les Salins,63000,Boulevard François Mitterrand,63
+55536,Antigua AlquerAa de CarriAn,-1,18.90893,-98.43409,,México,Puebla,Atlixco,,74260,Avenida Nicolás Bravo Rueda,
+55537,Kassandra Mare Hotel & Spa,-1,40.2087,23.31969,,Ελλάς,Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης,Περιφερειακή Ενότητα Χαλκιδικής,,632 00,Παράπλευρη Οδός,
+55538,Aladdin Motor Inn,-1,48.109,-122.77171,,United States,Washington,Jefferson County,,98368,Washington Street,2310
+55539,St. Johns Guest House,-1,50.61896,-2.45099,,United Kingdom,England,Dorset,Melcombe Regis,DT4 7JR,Dorchester Road,5
+55540,Astra Apartments - St Kilda Rd,-1,-37.84556,144.97917,Melbourne,Australia,Victoria,,Melbourne,3004,St Kilda Road,
+55544,Auldington,-1,-41.44394,147.13376,Launceston,Australia,Tasmania,,Launceston,7250,Frederick Street,108
+55545,Pousada Timoneiro,-1,-20.51073,-40.36263,Vila Velha,Brasil,Espírito Santo,Região Metropolitana da Grande Vitória,Ponta da Fruta,29129-075,Rua do Pêssego,
+55548,Hotel Crescent,-1,19.10122,72.89091,Mumbai Suburban,India,Maharashtra,,Zone 5,400072,Sant Shitolebaba Maharaj Marg,
+55550,Hotel Route-Inn Dai-Ni Kameyama Inter,-1,34.85913,136.4166,亀山市,日本,,,,519-1111,国道1号,
+55551,Dionysos Hotel,-1,37.70584,23.37016,,Ελλάς,Αποκεντρωμένη Διοίκηση Αττικής,Περιφερειακή Ενότητα Νήσων,,180 10,,
+55553,Taitung Spring B&B,-1,22.75408,121.15417,,臺灣,,臺東縣,,950002,福建路,137號
+55555,Apartamentos Maribel,-1,39.97244,3.83465,,España,Illes Balears,Menorca,,07769,Avinguda de sa Platja,21
+55557,Saga Hotel,-1,55.67168,12.56256,København,Danmark,Region Hovedstaden,,Kødbyen,1652,Colbjørnsensgade,20
+55563,Super 8 Motel - Conway,83,35.1105,-92.43616,Conway,United States,Arkansas,Faulkner County,,72032,Sanders Street,2425
+55567,Tropic Leisure Club at Magens Point Resort,-1,18.35997,-64.91512,,United States,United States Virgin Islands,Saint Thomas - Saint John District,,00802,Magen's Bay Road,
+55570,Castle in the Country,-1,42.44435,-85.86666,,United States,Michigan,Allegan County,,49010,33rd Street,332
+55571,Le RAgent Hotel & Spa,-1,47.26954,-2.35076,,France,Pays de la Loire,Loire-Atlantique,,44380,Boulevard des Océanides,
+55573,Hornsby Furnished Apartments,-1,-33.69998,151.10276,Sydney,Australia,New South Wales,,,2077,Albert Street,
+55575,Aquarius Apartments,-1,35.40744,25.01273,Δημοτική Ενότητα Γαζίου,Ελλάς,Αποκεντρωμένη Διοίκηση Κρήτης,Περιφερειακή Ενότητα Ηρακλείου,,,Ελευθερίου Βενιζέλου,
+55576,The Palace at Playa Grande,-1,19.67196,-70.04841,,República Dominicana,María Trinidad Sánchez,Río San Juan,,,Río San Juan - Cabrera,
+55577,Santa Barbara Inn,-1,34.41698,-119.67256,Santa Barbara,United States,California,Santa Barbara County,,93103,South Milpas Street,421
+55579,AmericInn Lodge & Suites Litchfield,43,45.12285,-94.51281,,United States,Minnesota,Meeker County,,55355,East Depot Street,801
+55580,Hotel Girassol,-1,32.63822,-16.92932,Funchal,Portugal,,,São Martinho,9000-126,Estrada Monumental,258
+55585,Hotel Mayet,-1,48.8471,2.31849,Paris,France,Île-de-France,,Paris 6e Arrondissement,75006,Rue Mayet,3
+55586,Days Inn Chipley Fl,85,30.75049,-85.55002,,United States,Florida,Washington County,,32428,Lost Lake Road,1198
+55587,Hampton Inn And Suites Tulare,91,36.22402,-119.33711,,United States,California,Tulare County,,93274,North Cherry Street,1100
+55590,Lively Mallorca,-1,39.51869,2.53447,,España,Illes Balears,Serra de Tramuntana,Magaluf,07184,,
+55591,Hotel Valentino,-1,44.66053,8.46951,,Italia,Piemonte,Alessandria,,15011,Valle Zani,15
+55593,The King William IV,-1,52.89958,0.54081,King's Lynn and West Norfolk,United Kingdom,England,Norfolk,,PE36 5LU,Heacham Road,
+55596,Le Grand Large,-1,46.15628,-1.26774,,France,Nouvelle-Aquitaine,Charente-Maritime,,17940,Avenue des Dunes,
+55601,Home-Towne Suites Prattville,-1,32.48162,-86.41803,,United States,Alabama,Autauga County,,36066,Summit Parkway,
+55602,Holiday Inn Express Hotel & Suites Sparta,92,38.13777,-89.70351,,United States,Illinois,Randolph County,,62286,North Market Street,1298
+55606,Arlington Inn,-1,43.07511,-73.15393,,United States,Vermont,Bennington County,,05250,Vermont Route 7A,3929
+55610,Hope Super 8 Motel,83,33.68424,-93.60941,,United States,Arkansas,Hempstead County,,71801,Holiday Drive,2000
+55612,City Hotell,-1,59.36966,16.50677,Eskilstuna,Sverige,,Södermanlands län,Snopptorp,632 27,Västermarksgatan,
+55613,Best Western Hotel De Paris,0,48.07103,-0.76797,,France,Pays de la Loire,Mayenne,Centre Ville Rive Gauche,53000,Rue de la Paix,22
+55619,Marrakesh Hua Hin Resort & Spa,-1,12.54432,99.96359,,ประเทศไทย,,ทับใต้,,77110,ถนนเพชรเกษม,
+55622,HAtel Araucaria,-1,45.50539,6.67331,La Plagne-Tarentaise,France,Auvergne-Rhône-Alpes,Savoie,,73210,Montée de la Lovatière,80
+55624,Rusticae La Casita de Cabrejas,-1,40.06983,-2.27538,Fuentenava de Jábaga,España,Castilla-La Mancha,,,16194,N-400,
+55625,Super 8 Franklin/Middletown Area,83,39.49561,-84.32207,Middletown,United States,Ohio,Warren County,,45005-5232,Commerce Drive,3553
+55628,Americas Best Value Inn and Suites - Greenwood,62,33.5072,-90.1932,,United States,Mississippi,Leflore County,,38935,US 49E;US 82;MS 7,
+55683,Americas Best Value Inn - Downtown / Midtown,62,33.79843,-84.39089,Atlanta,United States,Georgia,Fulton County,,30309,Peachtree Street Northeast,
+55765,Americas Best Value Inn Los Banos,62,37.05684,-120.85775,,United States,California,Merced County,,93635,West Pacheco Boulevard,325
+55795,Super 8 Foley,83,30.37892,-87.68324,,United States,Alabama,Baldwin County,,36535,McKenzie Street,2520
+55829,Quality Inn,84,36.76723,-76.25217,Chesapeake,United States,Virginia,,,23320,Red Cedar Court,102
+55856,Quest Bendigo,-1,-36.78359,144.24748,Bendigo,Australia,Victoria,,Golden Square,3550,High Street,
+55861,Green Tree Inn,-1,34.50728,-117.32086,Victorville,United States,California,San Bernardino County,,92395,Green Tree Boulevard,14173
+55971,Holiday Inn Express & Suites Sheldon,92,43.18584,-95.85884,,United States,Iowa,O'Brien County,,51201,West Park Street,350
+55977,Holiday Inn Express Hotel & Suites Fairfield - North,92,31.71908,-96.17576,,United States,Texas,Freestone County,,75840,Old Mexia Road,87
+56014,Sleep Inn Arlington Near Six Flags,69,32.75374,-97.06655,Arlington,United States,Texas,Tarrant County,,76011,Six Flags Drive,750
+56065,Quality Inn And Suites Ottumwa,84,41.06469,-92.41076,Ottumwa,United States,Iowa,Wapello County,,52501,West Joseph Avenue,
+56109,Hilton Phuket Arcadia Resort & Spa,3,7.8384,98.29611,ตำบลกะรน,ประเทศไทย,,อำเภอเมืองภูเก็ต,,83100,,
+56135,Best Western Plus Gateway Inn & Suites,82,39.70163,-104.82802,Aurora,United States,Colorado,Arapahoe County,,80012,South Abilene Street,840
+56155,TownePlace Suites Sacramento Roseville,68,38.79478,-121.29165,Roseville,United States,California,Placer County,,95765,Fairway Drive,
+56164,Affordable Suites Fayetteville/Cross Creek Mall,-1,35.08658,-78.96669,Fayetteville,United States,North Carolina,Cumberland County,,28303,Dashland Drive,501
+56167,Candlewood Suites Jefferson City,64,38.58934,-92.24895,Jefferson City,United States,Missouri,Cole County,,65109,Amazonas Drive,3514
+56170,The Leela Palace Chennai,-1,13.01824,80.27229,Chennai,India,Tamil Nadu,,Zone 13 Adyar,600001,Satyadev Avenue,
+56185,Hilton Bangalore Embassy GolfLinks,3,12.94832,77.64609,Bengaluru,India,Karnataka,Bangalore East,Domlur,560071,Embassy Golf Links Road,
+56187,Courtyard by Marriott Ahmedabad,90,23.02743,72.51238,,India,Gujarat,Vejalpur Taluka,Ramdev nagar,380015,Satellite Road,
+56269,Comfort Hotel JAnkAping,-1,57.77919,14.15658,Jönköping,Sverige,,Jönköpings län,Väster,553 17,Klostergatan,28
+56290,Grand Whiz Hotel Nusa Dua,-1,-8.79281,115.22877,,Indonesia,Bali,Badung,,80363,Jalan Pratama,
+56291,Navatara Phuket Resort,-1,7.76986,98.3159,ตำบลราไวย์,ประเทศไทย,,อำเภอเมืองภูเก็ต,,83130,ถนนวิเศษ,
+56310,TownePlace Suites Patuxent River Naval Air Station,68,38.28744,-76.4773,Lexington Park,United States,Maryland,Saint Mary's County,,20653,Rue Purchase Road,46173
+56358,Courtyard by Marriott Cranbury South Brunswick,90,40.3465,-74.48425,,United States,New Jersey,Middlesex County,,08813,Forsgate Drive,
+56447,The Westin Birmingham,66,33.52591,-86.80901,Birmingham,United States,Alabama,Jefferson County,,35203,Richard Arrington Jr Boulevard North,2221
+56449,Angsana Laguna Phuket,-1,8.00516,98.29672,ตำบลเชิงทะเล,ประเทศไทย,,อำเภอถลาง,,,Laguna Links,
+56485,Holiday Inn Express Mira Mesa-San Diego,92,32.91685,-117.11371,San Diego,United States,California,San Diego County,,92131,Mira Mesa Boulevard,9854
+56490,Richmonde Hotel,-1,14.58,121.05878,Pasig,Pilipinas,,,,1605,San Miguel Avenue,17
+56540,Slaviero Suites Curitiba,-1,-25.43784,-49.27658,Curitiba,Brasil,Paraná,Região Metropolitana de Curitiba,Centro,80420-120,Rua Doutor Pedrosa,208
+56565,Embassy Suites Atlanta at Centennial Olympic Park,74,33.76066,-84.39529,Atlanta,United States,Georgia,Fulton County,,30313,Marietta Street Northwest,267
+56591,Bengaluru Marriott Hotel Whitefield,2,12.97921,77.72738,Bengaluru,India,Karnataka,Bangalore East,EPIP Zone,560066,8th Road,75
+56594,Sofitel Chicago Water Tower,26,41.89833,-87.62756,Chicago,United States,Illinois,Cook County,,60611,East Chestnut Street,20
+56631,Super 8 Olive Branch,83,34.92942,-89.793,,United States,Mississippi,DeSoto County,,38654,Business Center Drive,11064
+56735,Essex Street Inn,-1,42.80991,-70.86958,,United States,Massachusetts,Essex County,,01950,Essex Street,5;7
+56808,Novotel Bangkok Impact,51,13.9106,100.54562,เทศบาลนครปากเกร็ด,ประเทศไทย,,อำเภอปากเกร็ด,,11120,ถนนป๊อปปูล่า,
+56960,Holiday Inn Express & Suites Lufkin South,92,31.27778,-94.73529,Lufkin,United States,Texas,Angelina County,,75901,South First Street,4400
+57038,Super 8 Sapulpa Tulsa Area,83,36.01748,-96.09676,,United States,Oklahoma,Creek County,,74067,New Sapulpa Road,
+57085,SALA Phuket Resort & Spa,-1,8.15874,98.29807,,ประเทศไทย,,อำเภอถลาง,,,,
+57211,Quality Inn,84,38.81792,-90.95242,Foristell,United States,Missouri,Saint Charles County,,63348,Highway W,12
+57271,Super 8 Old Saybrook,83,41.2886,-72.41839,,United States,,Lower Connecticut River Valley Planning Region,,06475,Spencer Plain Road,37
+57278,Country Inn & Suites By Carlson Stevens Point,-1,44.53767,-89.575,Stevens Point,United States,Wisconsin,Portage County,,54481,Division Street,301
+57299,Holiday Inn Express & Suites Nogales,92,31.36487,-110.94873,,United States,Arizona,Santa Cruz County,,85621,West Shell Road,850
+57314,Days Inn Walterboro,85,32.87942,-80.72084,,United States,South Carolina,Colleton County,,29488,Sniders Highway,1834
+57328,Super 8 Eveleth,83,47.46838,-92.52364,,United States,Minnesota,Saint Louis County,,55734,Progress Parkway,
+57341,Super 8 Crete Ne,83,40.62246,-96.98471,,United States,Nebraska,Saline County,,68333,Frontage Road,1880
+57361,Rodeway Inn,56,44.63786,-124.05311,,United States,Oregon,Lincoln County,Nye Beach,97365,Oregon Coast Highway,206
+57466,Holiday Inn Express Hotel & Suites,92,33.20453,-92.64624,,United States,Arkansas,Union County,,71730,Junction City Road,
+57470,Microtel Inn & Suites by Wyndham Wellton,63,32.65877,-114.14437,,United States,Arizona,Yuma County,,85356,Commerce Way,
+57516,La Quinta Inn & Suites Spokane North,86,47.74505,-117.40636,Spokane,United States,Washington,Spokane County,,99218,North Newport Highway,9625
+57552,Holiday Inn Express Hotel & Suites Morgan City Tiger Island,92,29.69624,-91.18245,,United States,Louisiana,St. Mary Parish,,70380,Martin Luther King Jr. Boulevard,731
+57582,Super 8 Grayville,83,38.23766,-87.99693,,United States,Illinois,White County,,62844,County Road 2450 North,2120
+57584,Holiday Inn Express Hotel & Suites Okmulgee,92,35.60896,-95.9618,,United States,Oklahoma,Okmulgee County,,74447,East 21st Street,
+57585,Econo Lodge North,70,35.5613,-77.06064,Washington,United States,North Carolina,Beaufort County,,27889,West 15th Street,1113
+57644,Manila Marriott Hotel,2,14.52046,121.01798,Pasay,Pilipinas,,,Zone 20,1309,Resort Drive,2
+57660,Staybridge Suites Sorrento Mesa,61,32.90639,-117.17415,San Diego,United States,California,San Diego County,,92121,Viper Way,
+57700,Hope Land Executive Residence,-1,13.71388,100.59299,กรุงเทพมหานคร,ประเทศไทย,,,เขตคลองเตย,12060,ถนนสุขุมวิท,
+57744,Super 8 Williamsport Area,83,41.24663,-76.9434,Loyalsock Township,United States,,Lycoming County,,17754,East 3rd Street,
+57759,Crown Club Inn Branson by Exploria Resorts,-1,36.64036,-93.245,Branson,United States,Missouri,Taney County,,65616,West 76 Country Boulevard,1335
+57833,Holiday Inn Victorville,92,34.50722,-117.32561,Victorville,United States,California,San Bernardino County,,92392,Palmdale Road,15494
+57854,Lemon Tree Hotel  Electronics City - Bengaluru,-1,12.84052,77.65995,,India,Karnataka,Bangalore South,Electronics City Phase 1,560100,,
+57962,Courtyard By Marriott Dallas - Lewisville,90,32.99642,-96.96546,Lewisville,United States,Texas,Denton County,,75067,Lake Vista Drive,2701
+58049,Hotel Amarano Burbank,-1,34.15574,-118.34583,Burbank,United States,California,,,91505,North Pass Avenue,322
+58087,Econo Lodge,70,43.55767,-83.95052,Bay City,United States,Michigan,Bay County,,48706,Westside Saginaw Road,6303
+58096,Holiday Inn Irapuato,92,20.67322,-101.37243,Irapuato,México,Guanajuato,Irapuato,,36557,Boulevard Mariano J. García,
+58108,Hotel Erwin,-1,33.98721,-118.47186,Los Angeles,United States,California,Los Angeles County,Venice,90291,Pacific Avenue,1697
+58113,Garden Place Suites,-1,31.55589,-110.30603,Sierra Vista,United States,Arizona,Cochise County,,85635,West Whitton Street,498
+58118,Days Inn Huntington,85,38.41214,-82.341,,United States,West Virginia,Cabell County,,25705,Midland Trail,
+58221,Super 8 Motel - Kingsport/I-81,83,36.47314,-82.49115,Kingsport,United States,Tennessee,Sullivan County,,37663,West Shipley Ferry Road,1238
+58268,Hampton Inn Salem,91,37.29444,-80.1026,Salem,United States,Virginia,Roanoke County,,24153,Litchell Road,450
+58312,Holiday Inn Express Forest City,92,35.34192,-81.90057,,United States,North Carolina,Rutherford County,,28043,Sparks Drive,101
+58401,Hampton Inn Princeton,91,37.36128,-81.05395,,United States,West Virginia,Mercer County,,24739,Meadowfield Lane,211
+58404,Super 8 Iola Kansas,83,37.93145,-95.40197,,United States,Kansas,Allen County,,66749,North Sycamore Street,900
+58415,Best Western Plus Capital Inn,82,38.55191,-92.19924,Jefferson City,United States,Missouri,Cole County,,65101,Christy Drive,1937
+58422,Summer Bay Orlando by Exploria Resorts,-1,28.34708,-81.66051,,United States,Florida,Lake County,,34714,West Irlo Bronson Memorial Highway,17705
+58500,Candlewood Suites Sumter,64,33.96075,-80.39889,Sumter,United States,South Carolina,Sumter County,,29150,Broad Street,2607
+58502,The George Washington Hotel,-1,40.16991,-80.24519,,United States,,Washington County,,15301,South Main Street,12
+58523,The Eldon Luxury Suites,-1,38.90419,-77.02533,Washington,United States,District of Columbia,,,20001,L Street Northwest,933
+58531,Best Western Jeju Hotel,0,33.48753,126.48209,제주시,대한민국,,,,63081,도령로,27
+58570,JW Marriott Phuket Resort & Spa,2,8.16642,98.29556,,ประเทศไทย,,อำเภอถลาง,,,,
+58581,Du Parc Hotel Dalat,-1,11.93689,108.43896,Thành phố Đà Lạt,Việt Nam,Tỉnh Lâm Đồng,,Phường 3,02633,Trần Phú,
+58585,Quality Inn & Suites,84,39.64985,-105.07862,Lakewood,United States,Colorado,Jefferson County,,80235,West Jefferson Avenue,
+58594,Super 8 Wakeeney Ks,83,39.0158,-99.87133,,United States,Kansas,Trego County,,67672,South 13th Street,
+58625,Holiday Inn Express Breezewood,92,39.99981,-78.22776,East Providence Township,United States,,Bedford County,,15533,Lincoln Highway,16901
+58630,Super 8 Cloverdale,83,39.52935,-86.80417,,United States,Indiana,Putnam County,,46120,,
+58646,Super 8 Motel - Bethany,83,40.26528,-94.01682,,United States,Missouri,Harrison County,,64424,Miller Street,3641
+58684,Springfield Village Golf & Spa,-1,12.70978,99.86538,,ประเทศไทย,,สามพระยา,,,,
+58691,La Quinta Inn & Suites Mcalester,86,34.89748,-95.76231,,United States,Oklahoma,Pittsburg County,,74501,South George Nigh Expressway,1137
+58716,Quality Inn,84,34.51186,-84.92138,,United States,Georgia,Gordon County,,30701,Red Bud Road Northeast,200
+58719,Holiday Inn Express Plymouth,92,35.84976,-76.75496,,United States,North Carolina,Washington County,,27962,U.S. Highway 64 West,601
+58758,Salina Ambassador Hotel and Conference Center,-1,38.82718,-97.63182,Salina,United States,Kansas,Saline County,,67401,West Crawford Street,1674
+58768,Hampton Inn Cordele,91,31.96094,-83.75713,,United States,Georgia,Crisp County,,31010,16th Avenue East,
+58783,Hilton Garden Inn Phoenix Airport North,87,33.4513,-111.99709,Phoenix,United States,Arizona,Maricopa County,,85008,East Van Buren Street,3838
+58798,Super 8 Hampshire IL,83,42.14768,-88.50923,,United States,Illinois,Kane County,,60140,Arrowhead Drive,115
+58842,Super 8 Bedford,83,37.33845,-79.54904,,United States,Virginia,Bedford County,,24523,Sword Beach Lane,842
+58912,Super 8 Plymouth,83,41.36086,-86.32887,,United States,Indiana,Marshall County,,46563,North Oak Road,2129
+58929,Governor's Inn,-1,44.37133,-100.36177,Pierre,United States,South Dakota,Hughes County,,57501,West Sioux Avenue,713
+58975,Homestead Resort,-1,48.95994,-122.44748,,United States,Washington,Whatcom County,,,East Homestead Boulevard,
+59090,Super 8 Elk City Ok,83,35.42225,-99.37278,,United States,Oklahoma,Beckham County,,73644,OK 34;US Historic 66,
+59105,Super 8 Muncie Ball St,83,40.22015,-85.42837,Muncie,United States,Indiana,Delaware County,,47304,West Fox Ridge Lane,3512
+59109,Super 8 Willmar,83,45.09731,-95.0425,,United States,Minnesota,Kandiyohi County,,56201,1st Street South,2614
+59149,Super 8 Longmont / Del Camino,83,40.158,-104.98119,,United States,Colorado,,,80504,Turner Boulevard,10805
+59168,Howard Johnson Williamstown,54,42.70429,-73.18827,,United States,Massachusetts,Berkshire County,,01267,Main Street,
+59211,Best Western Lakewinds,0,43.95558,-86.40377,,United States,Michigan,Mason County,,49431,West US Highway 10,5005
+59247,Ramada Sacramento,73,38.63009,-121.40138,Sacramento,United States,California,Sacramento County,,95821,Auburn Boulevard,2600
+59250,Hotel-Restaurant Les Oliviers,-1,44.75634,4.83326,,France,Auvergne-Rhône-Alpes,Drôme,,26270,Rue Louis d'Arbalestier,
+59306,Super 8 Blackwell Ok,83,36.8115,-97.29803,,United States,Oklahoma,Kay County,,74631,West Doolin Avenue,1014
+59308,Silver Beach Hotel,-1,42.11011,-86.47969,,United States,Michigan,Berrien County,,49085,Main Street,100
+59351,Comfort Inn Boonville,88,38.93795,-92.77589,,United States,Missouri,Cooper County,,65233,Mid-America Industrial Drive,2425
+59422,Valley Oaks Inn Woodland,18,38.69709,-121.76514,,United States,California,Yolo County,,95695,North East Street,755
+59430,Holiday Inn Express - Garden City,92,37.98011,-100.84125,Garden City,United States,Kansas,Finney County,,67846,Crestway Drive,2505
+59463,Days Inn Fort Dodge,85,42.50139,-94.15371,Fort Dodge,United States,Iowa,Webster County,,50501,5th Avenue South,3048
+59515,Leonardo Privilege Hotel Eilat,-1,29.55474,34.96134,אילת,ישראל,מחוז הדרום,,אזור המלונות,8804625,טיילת השלום,
+59521,Super 8 Havre De Grace Md,83,39.55063,-76.10383,,United States,Maryland,Harford County,,21078,Pulaski Highway,921
+59524,Holiday Inn Express Hotel & Suites Hazard,92,37.29422,-83.2172,,United States,Kentucky,Perry County,,41722,KY 80,
+59543,Kempinski Hotel Gold Coast City,29,5.55422,-0.19866,Accra,Ghana,Greater Accra Region,Korle-Klottey Municipal District,Ministries,GA-222-2148,Gamel Abdul Nasser Avenue,66
+59617,Super 8 Webster City Ia,83,42.44544,-93.81545,,United States,Iowa,Hamilton County,,50595,Closz Drive,401
+59663,The Boulevard Inn and Bistro,-1,42.10784,-86.48467,,United States,Michigan,Berrien County,,49085,Lake Boulevard,521
+59791,Best Western Executive Inn El Campo,0,29.17559,-96.27668,,United States,Texas,Wharton County,,77437,US Highway 59 Frontage Road,25880
+59873,Black Gold Country Cabins & Motel,-1,-33.40326,150.07321,,Australia,New South Wales,,Wallerawang,2845,Main Street,121
+60002,Magnuson Grand Hotel And Conference Center,20,39.28034,-89.64616,,United States,Illinois,Montgomery County,,62560,West Frontage Road,19079
+60039,Super 8 Melrose,83,45.66536,-94.80526,,United States,Minnesota,Stearns County,,56352,East Country Club Road,
+60063,Best Western Pioneer Inn & Suites,0,41.70105,-92.72657,,United States,Iowa,Poweshiek County,,50112,West Street South,2210
+60068,Best Western Sonora Inn & Suites,0,31.36534,-110.94765,,United States,Arizona,Santa Cruz County,,85621,West Shell Road,800
+60134,Best Western Trail Dust Inn & Suites,0,33.14272,-95.56294,,United States,Texas,Hopkins County,,75482,,
+60152,Best Western Northwoods Lodge,0,45.78406,-92.381,,United States,Wisconsin,Burnett County,,54872,State Highway 35,23984
+60158,Knights Inn Bucyrus,37,40.82239,-82.97425,,United States,Ohio,Crawford County,,44820,North Sandusky Avenue,1465
+60172,Sleep Inn & Suites,69,43.04806,-92.67259,,United States,Iowa,Floyd County,,50616,Shadow Avenue,
+60187,Quality Inn,84,44.30994,-96.7643,Brookings,United States,South Dakota,Brookings County,,57006,Sunrise Ridge Road,432
+60197,Comfort Inn Big Stone Gap,88,36.85846,-82.75246,,United States,Virginia,Wise County,,24219,Aerial Way,4615
+60219,Sylvania Inn,-1,32.74834,-81.64237,,United States,Georgia,Screven County,,30467,West Ogeechee Street,
+60268,Best Western Plus Russellville Hotel & Suites,82,34.49413,-87.7256,,United States,Alabama,Franklin County,,35653,Andrew Jackson Highway,13810
+60299,Best Western Derby Inn,0,45.93809,-89.25691,,United States,Wisconsin,Vilas County,,54521,Agof Road,
+60302,Prestige Mountain Resort Rossland,-1,49.07701,-117.80118,,Canada,British Columbia,,,V0G 1Y0,Columbia Avenue,1952
+60367,Comfort Inn Hebron,88,41.29152,-87.29208,,United States,Indiana,Lake County,,46341,East 181st Avenue,3550
+60382,Pan Pacific Serviced Suites Bangkok,10,13.73091,100.58157,กรุงเทพมหานคร,ประเทศไทย,,,เขตวัฒนา,10110,ซอยสุขุมวิท 55,
+60429,Hotel Manang Pvt. Ltd.,-1,27.71773,85.31025,काठमाडौं,नेपाल,बाग्मती प्रदेश,काठमाडौं,सोरखुट्टे,44600,Chaksibari Marg,P886+X3
+60539,Econo Lodge Inn And Suites,70,40.22087,-76.09912,East Cocalico Township,United States,,Lancaster County,,17567,North Reading Road,2017
+60563,Super 8 Clinton Ok,83,35.50276,-98.97285,,United States,Oklahoma,Custer County,,73601,South 10th Street,1086
+60574,Americas Best Value Inn,62,34.5583,-82.68852,,United States,South Carolina,Anderson County,,19621,Clemson Boulevard,
+60588,Best Western Fairwinds Inn,0,34.20578,-86.87571,,United States,Alabama,Cullman County,,35055,Commerce Street,1962
+60607,Paradise Island Resort & Spa,-1,4.28498,73.55383,,ދިވެހިރާއްޖެ,މާލެ އަތޮޅު,,,08060,Jetty 2,
+60628,Quality Inn Klamath Falls,84,42.22166,-121.78596,Klamath Falls,United States,Oregon,Klamath County,,97601,Main Street,141
+60631,Best Western Corbin Inn,0,36.91818,-84.13381,,United States,Kentucky,Whitley County,,40701,Cumberland Falls Road,2630
+60657,Econo Lodge Inn And Suites Dickson,70,36.02226,-87.33852,,United States,Tennessee,Dickson County,,37055,SR 46,
+60726,Shangri-La's Mactan Resort & Spa,-1,10.30833,124.0199,Lapu-Lapu,Pilipinas,,,,6015,Punta Engaño Road,
+60735,Comfort Inn Evansville,88,38.15654,-87.55211,Evansville,United States,Indiana,Vanderburgh County,,47725,Elpers Road,19601
+60759,Retaj Al Rayyan Hotel,-1,25.32768,51.53851,الدوحة,قطر,,,الخليج الغربي,,شارع الدفنة,
+60831,La Morada,-1,20.91399,-100.74297,San Miguel de Allende,México,Guanajuato,San Miguel de Allende,,37700,Calle Diez de Sollano y Dávalos,32
+60837,La Quinta Inn and Suites Beaumont West,86,30.03884,-94.15915,Beaumont,United States,Texas,Jefferson County,,77705,Walden Road,
+60849,Days Inn Iron Mountain,85,45.8098,-88.03621,,United States,Michigan,Dickinson County,,49801,US-2/US-141,W8177
+60882,Comfort Inn On Raglan,88,-38.38678,142.50277,Warrnambool,Australia,Victoria,,,3280,Raglan Parade,
+60893,Quality Inn Madison,84,33.55788,-83.47565,,United States,Georgia,Morgan County,,30650,Eatonton Road,2011
+60931,Days Inn Woodbridge,85,40.56604,-74.29782,,United States,New Jersey,Middlesex County,,07905,US 1,
+60986,Super 8 Tomahawk,83,45.48913,-89.72955,,United States,Wisconsin,Lincoln County,,54487,West Mohawk Drive,106
+61038,Quality Inn Clinton,84,34.50882,-81.85878,,United States,South Carolina,Laurens County,,29325,State Highway 56,
+61077,Hotel Route-Inn Oita Ekimae,-1,33.23386,131.60858,大分市,日本,,,,870-0027,産業通り,
+61138,Clarion Collection Hotel Astoria,58,60.7933,11.07444,Hamar,Norge,,Innlandet,Holset,,Østre torg,
+61157,Super 8 Osseo WI,83,44.57754,-91.20098,,United States,Wisconsin,Trempealeau County,,54758,Oak Grove Road,50663
+61164,Days Inn Westminster,85,39.57355,-76.98096,Westminster,United States,Maryland,Carroll County,,21157,,
+61200,Super 8 Orange City Ia,83,42.99703,-96.04648,,United States,Iowa,Sioux County,,51041,Lincoln Place,
+61317,Isrotel Lagoona,-1,29.55126,34.96202,אילת,ישראל,מחוז הדרום,,אזור המלונות,8804625,טיילת השלום,
+61318,Days Inn Columbus Tryon,85,35.24565,-82.2056,,United States,North Carolina,Polk County,,28782,I 26,
+61333,Travelodge Clovis,57,34.39671,-103.18274,Clovis,United States,New Mexico,Curry County,,88101,Mabry Drive,1720
+61342,Super 8 Parsons Ks,83,37.34041,-95.23717,,United States,Kansas,Labette County,,67357,Main Street,298
+61365,Best Western Amador Inn,0,38.34607,-120.77184,,United States,California,Amador County,,95642,CA 49,400
+61391,Days Inn & Suites Gonzales,85,29.51675,-97.46373,,United States,Texas,Gonzales County,,78629,US 183,
+61411,Super 8 Motel - Sikeston/Miner Area,83,36.89061,-89.54016,Miner,United States,Missouri,Scott County,,63801,East Malone Avenue,2606
+61429,Holiday Inn Cleveland - Strongsville (Arpt),92,41.31307,-81.80433,,United States,Ohio,Cuyahoga County,,44136,Royalton Road,15009
+61470,Hotel Poseidon Resort,-1,37.9951,22.94854,Δημοτική Ενότητα Λουτρακίου - Περαχώρας,Ελλάς,"Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου",Περιφερειακή Ενότητα Κορινθίας,,203 00,,
+61491,Legacy Inn,-1,29.95628,-82.10726,,United States,Florida,Bradford County,,32091,Temple Avenue,
+61525,Hotel Elliott,-1,46.18863,-123.83014,,United States,Oregon,Clatsop County,,97103,13th Street,
+61564,Holiday Inn Express & Suites St Marys,92,41.40292,-78.56052,,United States,,Elk County,,15857,Million Dollar Highway,951
+61597,Super 8 Concordia,83,39.56435,-97.65741,,United States,Kansas,Cloud County,,66901,Lincoln Street,1302
+61621,Days Inn Chambers,85,35.1909,-109.43238,,United States,Arizona,Apache County,,,US 191,
+61625,Super 8 Manning,83,33.70688,-80.24695,,United States,South Carolina,Clarendon County,,29102,Frontage Road,1062
+61634,Best Western Monticello Gateway Inn,0,40.05024,-88.56603,,United States,Illinois,Piatt County,,61856,Iron Horse Place,805
+61741,Super 8 Rock Port MO,83,40.42053,-95.53582,,United States,Missouri,Atchison County,,64482,Lewis & Clark Trail,
+61774,Best Western Plus Bronco Inn,82,47.117,-118.36819,,United States,Washington,Adams County,,99169,West Galbreath Way,105
+61789,Americinn Fort Dodge,43,42.4844,-94.208,Fort Dodge,United States,Iowa,Webster County,,50501,A Street,100
+61799,Best Western Butch Cassidy Inn,0,38.27211,-112.64116,,United States,Utah,Beaver County,,84713,South Main Street,161
+61891,The Maya Hotel,-1,31.31941,75.58701,Jalandhar,India,Punjab,Jalandhar I Tahsil,,144001,,
+61934,Best Western Quiet House & Suites,0,42.9735,-90.12624,,United States,Wisconsin,Iowa County,,53533,North Johns Street,
+61964,Econo Lodge,70,36.23368,-84.162,,United States,Tennessee,Anderson County,,37769,Colonial Lane,221
+61970,Best Western Plus Red River Inn,82,34.94275,-100.89767,,United States,Texas,Donley County,,79226,West 2nd Street,902
+62064,Viale Cataratas Hotel,-1,-25.56108,-54.56146,Foz do Iguaçu,Brasil,Paraná,,,85853-130,Avenida das Cataratas,2330
+62161,Comfort Inn Tampico,88,22.2466,-97.87299,Tampico,México,Tamaulipas,Tampico,,89460,Avenida Ejército Mexicano,
+62163,Quality Inn & Suites,84,43.14738,-93.20753,Mason City,United States,Iowa,Cerro Gordo County,,50401,5th Street Southwest,410
+62183,Quality Inn Rogersville,84,36.39126,-83.03651,,United States,Tennessee,Hawkins County,,37857,West Main Street,7174
+62197,Econo Lodge Cornersville,70,35.3078,-86.88142,,United States,Tennessee,Marshall County,,37047,Sam Davis Highway,
+62236,Circle S Lodge,-1,41.8217,-103.65065,,United States,Nebraska,Scotts Bluff County,,69341,M Street,
+62364,Sleep Inn & Suites,69,36.50585,-82.42929,Kingsport,United States,Tennessee,Sullivan County,,37663,Hospitality Place,200
+62387,Super 8 Jamestown Nd,83,46.88134,-98.71604,,United States,North Dakota,Stutsman County,,58401,US 281,
+62389,Holiday Inn Express Hotel & Suites Lansing-Dimondale,92,42.65191,-84.6422,,United States,Michigan,Eaton County,,48821,Creyts Road,541
+62397,Comfort Inn & Suites,88,36.71522,-78.11007,,United States,Virginia,Mecklenburg County,,23970,Thompson Street,250
+62401,Best Western Lake Cumberland Inn,0,36.8614,-84.83611,,United States,Kentucky,Wayne County,,42633,Tate Drive,2030
+62407,Best Western Geneseo Inn,0,41.43412,-90.15806,,United States,Illinois,Henry County,,61254,South Oakwood Avenue,1325
+62505,ibis Styles Nagold,45,48.54958,8.72397,,Deutschland,Baden-Württemberg,Landkreis Calw,,72202,Inselstraße,16
+62531,Rodeway Inn,56,35.03252,-110.71649,,United States,Arizona,Navajo County,,86047,West 3rd Street,
+62537,Econo Lodge Martin,70,36.34871,-88.87539,,United States,Tennessee,Weakley County,,38237,University Street,849
+62554,Blarney Castle Hotel,-1,51.9324,-8.56732,Cork,Éire / Ireland,,County Cork,,T23 YA34,The Square,
+62567,Holiday Inn Express & Suites  Caryville,92,36.29714,-84.21371,,United States,Tennessee,Campbell County,,37714,John McGhee Boulevard,154
+62579,Campanile Cracovie,-1,50.06183,19.94338,Kraków,Polska,województwo małopolskie,,Stare Miasto,31-033,Świętego Marka,
+62601,Comfort Inn Green River,88,38.99105,-110.13218,Green River,United States,Utah,Emery County,,84525,East Main Street,1224
+62630,Clarion Collection Hotel Etage,58,59.60963,16.54567,Västerås,Sverige,,Västmanlands län,Östermalm,722 12,Stora gatan,34
+62660,Americas Best Value Inn,62,36.30452,-95.31973,,United States,Oklahoma,Mayes County,,74361,South Mill Street,123
+62665,Super 8 Motel - Oshkosh/airport,83,43.99456,-88.57579,Oshkosh,United States,Wisconsin,Winnebago County,,54902,State Highway 44,
+62670,Super 8 Terrell,83,32.69984,-96.27481,Terrell,United States,Texas,Kaufman County,,75160,State Highway 34 South,1703
+62717,Holiday Inn Express & Suites Sioux Center,92,43.07712,-96.17538,,United States,Iowa,Sioux County,,51250,South Main Avenue,124
+62792,Super 8 Tilton Lake Winnipesauk,83,43.45337,-71.56871,,United States,New Hampshire,Belknap County,,03276,Winnipesaukee River Trail,
+62909,Americas Best Value Inn - Charlotte,62,42.55318,-84.82533,,United States,Michigan,Eaton County,,48813,East Shepherd Street,828
+63032,Super 8 Dwight,83,41.11288,-88.41227,,United States,Illinois,Grundy County,,60420,East Northbrook Drive,13
+63066,Nemacolin Woodlands Resort,-1,39.80514,-79.55202,Wharton Township,United States,,Fayette County,,15437,Lafayette Drive,1001
+63075,The Victorian House,-1,55.86651,-4.26603,Glasgow,United Kingdom,Alba / Scotland,Glasgow City,Garnethill,G3 6TX,Renfrew Street,220
+63096,Super 8 Columbia,83,35.64319,-86.89627,Columbia,United States,Tennessee,Maury County,,38401,Bear Creek Pike,1564
+63139,Econo Lodge Custer,70,43.76571,-103.60207,,United States,South Dakota,Custer County,,57730,Mount Rushmore Road,342
+63155,Best Western Plus Covered Bridge Inn,82,39.44448,-87.12634,,United States,Indiana,Clay County,,47834,State Route 59,3882
+63156,Astoria Riverwalk Inn,-1,46.18654,-123.85719,,United States,Oregon,Clatsop County,,97103,Astoria Riverwalk,
+63196,Super 8 Motel - Hartford,83,43.3174,-88.35145,,United States,Wisconsin,Washington County,,53027,East Sumner Street,1539
+63242,Motel 6 Pawleys Island,75,33.42272,-79.16808,,United States,South Carolina,Georgetown County,,29585,Ocean Highway,7829
+63272,Best Western Plus Humboldt House Inn,82,40.10188,-123.79482,,United States,California,Humboldt County,,95542,Redwood Drive,701
+63275,Days Inn West Branch Iowa City Area,85,41.6611,-91.34672,,United States,Iowa,Cedar County,,52358,Baker Avenue,1900
+63302,Econo Lodge,70,45.18027,-89.65221,,United States,Wisconsin,Lincoln County,,54452,Pine Ridge Avenue,
+63315,Royal Mare Hotel,-1,35.47283,27.11419,Δημοτική Ενότητα Καρπάθου,Ελλάς,Αποκεντρωμένη Διοίκηση Αιγαίου,Περιφερειακή Ενότητα Καρπάθου-Ηρωικής Νήσου Κάσου,,857 00,,
+63320,Quality Inn Mitchell,84,43.69792,-98.01773,Mitchell,United States,South Dakota,Davison County,,57301,East Kay Avenue,701
+63337,Best Western Plus Venture Inn,82,37.28661,-87.11619,,United States,Kentucky,Muhlenberg County,,42330,South 2nd Street,627
+63342,Hotel Michelangelo,-1,-20.86212,-49.33907,São José do Rio Preto,Brasil,São Paulo,Região Metropolitana de São José do Rio Preto,Centro Industrial Pascutti,15077-030,Rua Vilibaldo Urias Gomes,400
+63368,Mountain Star Lodge,-1,30.32109,-97.95423,Austin,United States,Texas,Travis County,,78738,Ranch Road 620 South,3573
+63420,Super 8 Hutchinson,83,38.07098,-97.9,Hutchinson,United States,Kansas,Reno County,,67501,Super Plaza,1621
+63433,Comfort Inn,88,40.93863,-98.38513,Grand Island,United States,Nebraska,Hall County,,68803,West State Street,3535
+63449,Best Western Plus Main Street Inn,82,32.97862,-115.51534,Brawley,United States,California,Imperial County,,92227,Main Street,1562
+63458,Oak Tree Inn Dexter,-1,36.80368,-89.98395,,United States,Missouri,Stoddard County,,63841,US 60 Business,1576
+63459,Sleep Inn Summersville,69,38.30165,-80.83028,,United States,West Virginia,Nicholas County,,26651,Professional Park Drive,701
+63472,Best Western La Grande Hacienda,0,42.7662,-95.5528,,United States,Iowa,Cherokee County,,51012,North 2nd Street,1400
+63486,Best Western Laegreid Hotell,0,61.23025,7.10064,,Norge,,Vestland,,6856,Almenningen,
+63531,Best Western Plus Independence Inn & Suites,82,42.4516,-91.92103,,United States,Iowa,Buchanan County,,50644,Swan Lake Boulevard,2100
+63533,Comfort Inn & Suites,88,45.78715,-119.32161,,United States,Oregon,Umatilla County,,97838,Hermiston Highway,77522
+63544,Centerstone Inn & Suites-Maquoketa,-1,42.04546,-90.66538,,United States,Iowa,Jackson County,,52060,US 61,
+63555,Days Inn - Lexington Nebraska,85,40.74989,-99.73974,Lexington,United States,Nebraska,Dawson County,,68850,Plum Creek Parkway,2576
+63578,Econo Lodge,70,31.68715,-89.14674,,United States,Mississippi,Jones County,,39440,South 16th Avenue,310
+63690,Quality Inn,84,46.58672,-90.93745,,United States,Wisconsin,Bayfield County,,54806,Major Richard I. Bong Memorial Highway,
+63695,Best Western Bowie Inn & Suites,0,33.55234,-97.86323,,United States,Texas,Montague County,,76230,West US Highway 287 South,900
+63726,Refuge Inn,-1,37.92454,-75.3537,,United States,Virginia,Accomack County,,23336,Maddox Boulevard,7058
+63775,Best Western State Fair Inn,0,38.68463,-93.25129,Sedalia,United States,Missouri,Pettis County,,65301,South Limit Avenue,3136
+63781,Hampton Inn Bellevue,91,41.13984,-95.96476,Bellevue,United States,Nebraska,Sarpy County,,68123,Samson Way,3402
+63797,Comfort Inn & Suites,88,35.92888,-89.88173,,United States,Arkansas,Mississippi County,,72315,East Main Street,1034
+63798,Hotel Restaurant Piazza,-1,49.06915,10.31808,,Deutschland,Bayern,Landkreis Ansbach,,91550,Segringer Straße,15
+63805,Super 8 Buffalo Mn,83,45.16709,-93.85785,,United States,Minnesota,Wright County,,55313,10th Avenue South,304
+63830,Best Western Rory & Ryan Inns,0,43.57174,-119.07587,,United States,Oregon,Harney County,,97738,US 20;US 395,617
+63848,Super 8 Motel Summersville,83,38.30119,-80.83409,,United States,West Virginia,Nicholas County,,26651,Wal Street,306
+63852,City Express Monterrey Santa Catarina,-1,25.68809,-100.49608,,México,Nuevo León,,,66367,,
+63914,Tawas Bay Beach Resort,-1,44.27999,-83.4864,,United States,Michigan,Iosco County,,48764,West Bay Street,
+63938,Hampton Inn Plover/Stevens Point,91,44.45026,-89.52285,,United States,Wisconsin,Portage County,,54467,Village Park Drive,3099
+63972,Super 8 Motel - Mankato,83,44.19635,-94.02028,Mankato,United States,Minnesota,Nicollet County,,56001,US 169,51646
+63995,Holiday Inn Express & Suites Wauseon,92,41.5896,-84.14911,,United States,Ohio,Fulton County,,43567,SR 108,8135
+64055,Rizzo Conference Center - A Destination Hotel,-1,35.90584,-79.00908,Chapel Hill,United States,North Carolina,Orange County,,27516,Meadowmont Lane,
+64078,Americas Best Value Inn,62,44.30168,-92.68582,,United States,Minnesota,Goodhue County,,55992,North Star Drive,1347
+64083,Hacienda Sepulveda Hotel & SPA,-1,21.42071,-101.90544,,México,Jalisco,Lagos de Moreno,,47515,,
+64091,Tamarack Lodge,-1,43.6825,-114.36143,,United States,Idaho,Blaine County,,83340,North Walnut Avenue,291
+64134,Quality Inn,84,34.9934,-78.1395,,United States,North Carolina,Duplin County,,28365,NC 24,2714
+64154,Comfort Inn And Suites,88,41.75389,-92.72723,,United States,Iowa,Poweshiek County,,50112,West Street,
+64189,Holiday Inn Express Dayton,92,35.4552,-85.05171,,United States,Tennessee,Rhea County,,37321,Rhea County Highway,2632
+64204,Quality Inn,84,31.47026,-96.04723,,United States,Texas,Leon County,,75831,East Commerce Street,2726
+64205,Belen Super 8 Motel,83,34.6579,-106.77772,,United States,New Mexico,Valencia County,,87002,South Main Street,483
+64242,Quality Inn,84,36.72706,-91.8774,,United States,Missouri,Howell County,,65775,Jan Howard Expressway,220
+64262,Holiday Inn Express Hotel & Suites,92,37.84878,-81.99977,,United States,West Virginia,Logan County,,25601,Branch Street,401
+64318,Pico Sands Hotel,-1,14.19023,120.59899,,Pilipinas,Batangas,,,4231,Miranda B,
+64366,Super 8 Manistee,83,44.26055,-86.31607,,United States,Michigan,Manistee County,,49660,Arthur Street,165
+64370,Quality Inn,84,37.96196,-76.77869,,United States,Virginia,Richmond County,,22572,Richmond Road,4716
+64378,Kempinski Hotel Yinchuan,9,38.4821,106.22734,金凤区,中国,宁夏回族自治区,,北京中路街道,750000,,
+64388,The LA Hotel Downtown,-1,34.05478,-118.25488,Los Angeles,United States,California,Los Angeles County,Downtown,90071,South Figueroa Street,350
+64472,Comfort Inn,88,33.57332,-92.84265,,United States,Arkansas,Ouachita County,,71701,Magnolia Road Southwest,869
+64475,Super 8 Moody,83,33.57825,-86.51224,,United States,Alabama,St. Clair County,,35004,Moody Parkway,2451
+64484,Holiday Inn Express Madison,92,33.55362,-83.47217,,United States,Georgia,Morgan County,,30650,Ramada Lane,
+64499,Super 8 Motel - Howe,83,41.74753,-85.42668,,United States,Indiana,LaGrange County,,46746,SR 9,7333
+64500,Flora Creek Deluxe Hotel Apartments,-1,25.25313,55.32786,,الإمارات العربية المتحدة,دبي,,بور سعيد,,36b شارع,
+64507,Windsor Oaks Inn and Suites,18,38.23631,-88.00124,,United States,Illinois,White County,,62844,South Court Street,2457
+64560,Original Sokos Hotel Vaakuna,-1,61.00102,24.47552,Hämeenlinna,Suomi / Finland,,Kanta-Häme,Keinusaari,13200,Possentie,4
+64584,Super 8 Motel Big Rapids,83,43.6899,-85.49625,,United States,Michigan,Mecosta County,,49307,Water Tower Road,749
+64591,Sleep Inn,69,40.64102,-81.44505,,United States,Ohio,Tuscarawas County,,44612,SR 212,11201
+64606,Holiday Inn Express & Suites Maryville,92,40.31899,-94.87428,,United States,Missouri,Nodaway County,,64468,South Main Street,2817
+64615,Super 8 Dodgeville,83,42.97723,-90.12748,,United States,Wisconsin,Iowa County,,53533,North Johns Street,1410
+64663,Liaison Capitol Hill DC-an Affinia hotel,-1,38.895,-77.01103,Washington,United States,District of Columbia,,Capitol Hill,20001,New Jersey Avenue Northwest,400
+64672,Super 8 Farmville Va,83,37.27417,-78.40129,,United States,Virginia,Prince Edward County,,23901,South Main Street,2005
+64700,Super 8 Brookhaven Ms,83,31.60883,-90.46991,,United States,Mississippi,Lincoln County,,39601,Dunn-Ratcliff Road Northwest,337
+64795,Holiday Inn Express Hotel & Suites Brownfield,92,33.18224,-102.2742,,United States,Texas,Terry County,,79316,Lubbock Road,321
+64799,Quality Inn & Suites,84,41.81373,-86.24816,,United States,Michigan,Berrien County,,49120,South 11th Street,1250
