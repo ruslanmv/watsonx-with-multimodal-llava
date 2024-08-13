@@ -240,3 +240,5 @@ pip install git+https://github.com/huggingface/transformers.git
 ## Conclusion
 
 This project demonstrates how to build an application that recommends hotels, generates descriptions for hotel images using LLava, and integrates WatsonX.ai to choose the best places to book based on custom preferences. By following the steps provided, you can replicate and extend this application for your own use cases.
+
+pip install gradio_multimodalchatbot

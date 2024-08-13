@@ -304,5 +304,5 @@ def show_hotels(place=None):
     plt.tight_layout()
     plt.show()
 
-place='Genova Italia'
-show_hotels(place)
+#place='Genova Italia'
+#show_hotels(place)
