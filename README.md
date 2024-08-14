@@ -1,7 +1,7 @@
 # How to Use Multimodal LLava with WatsonX.ai
 
 In this project, we will demonstrate how to build an interesting application that recommends hotels. The application will generate descriptions of hotel photos using LLava and add these descriptions to a new column named `multimodal_description`. With WatsonX.ai, you can read all descriptions and, based on your custom preferences, choose the best 5 places to book and describe the photos of the hotel.
-
+![](assets/2024-08-14-17-57-16.png)
 ## Setup
 
 First, let's install the necessary libraries:
@@ -242,3 +242,8 @@ pip install git+https://github.com/huggingface/transformers.git
 This project demonstrates how to build an application that recommends hotels, generates descriptions for hotel images using LLava, and integrates WatsonX.ai to choose the best places to book based on custom preferences. By following the steps provided, you can replicate and extend this application for your own use cases.
 
 pip install gradio_multimodalchatbot
+
+![](assets/2024-08-14-17-58-27.png)
+
+
+![](assets/2024-08-14-17-58-11.png)
