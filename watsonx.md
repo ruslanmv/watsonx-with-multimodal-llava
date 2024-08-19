@@ -302,15 +302,18 @@ demo.launch(debug=True)
 The last line launches the Gradio application, making it accessible in your web browser. The `debug=True` option enables helpful debugging information in case of errors.
 
 **Example use**
-We 
+We find Segrate Milano Italy
+It will search all the Hotels nearby this place
+![](assets/2024-08-19-14-31-17.png)
+and it is displayed the top 5 hotels nearby this place with their descriptions comming from the images 
 
 ![](assets/2024-08-19-13-56-43.png)
 
+and finally with the use of WatsonX.ai we got the recommendation.
+
 and the recommendation 
 ![](assets/2024-08-19-13-57-12.png)
-**Wrapping Up**
 
-This code provides the foundational structure of the front-end, creating the visual elements that users will interact with. It lays the groundwork for a smooth and engaging hotel recommendation experience powered by the capabilities of WatsonX. Remember that the actual chatbot logic and backend interactions would reside in other parts of your code, seamlessly integrated with this front-end interface. 
 
 
 
