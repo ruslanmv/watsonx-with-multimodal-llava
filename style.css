@@ -1,0 +1,65 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5F5F5;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+#header {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(229, 224, 223); /* Light background for the title */
+}
+
+#title {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Chatbot Container Styling */
+#chatbot-container {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 900px;
+}
+
+/* Input Row Styling */
+#input-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+/* Textbox Styling */
+#place-input input {
+    font-size: 1.1em;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 400px;
+}
+
+/* Search Button Styling */
+#search-btn {
+    background-color: black;
+    color: white;
+    font-size: 1.1em;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+    transition: background-color 0.3s ease;
+}
+
+#search-btn:hover {
+    background-color: gray; /* Changes to gray when hovering */
+}
+
